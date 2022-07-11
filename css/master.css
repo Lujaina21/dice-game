@@ -1,0 +1,60 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Geo&display=swap'); */
+
+ .container {
+        width: 100%;
+        text-align: center;
+    }
+  
+    .dice {
+        text-align: center;
+        display: inline-block;
+        margin: 70px;
+    }
+  
+    body {
+        /* background-color: #042f4b; */
+        margin: 0;
+        background-color: #330033;
+    }
+  
+    h1 {
+        margin: 10px;
+        font-family: 'Geo', sans-serif;  
+        font-size: 43px;
+        /*color: #4ecca3; */
+        color:#ffffcc;
+        text-align: center;
+    }
+  
+    p {
+        font-size: 36px;
+        color: #ffffcc;
+        font-family: "Indie Flower", cursive;
+    }
+  
+    img {
+        width: 100%;
+        border-radius: 16.2px;
+    }
+  
+    .bottom {
+        padding-top: 30px;
+    }
+  
+    .butn {
+        /* background: #4ecca3; */
+        background: linear-gradient(to left, #993333 12%, #ff99cc 90%);
+        font-family: "Indie Flower", cursive;
+        border-radius: 7px;
+        color: #0a0a0f;
+        font-size: 21px;
+        padding: 16px 25px 16px 25px;
+        text-decoration: none;
+    }
+  
+    .butn:hover {
+        /*background: #232931; */
+        background:  #0a0a0f;
+        text-decoration: none;
+        color:bisque;
+    }
